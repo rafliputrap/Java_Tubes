@@ -1,0 +1,10 @@
+com\authdemo\service\UserService.class
+com\authdemo\controller\CustomErrorController.class
+com\authdemo\model\User.class
+com\authdemo\controller\WebViewController.class
+com\authdemo\repository\UserRepository.class
+com\authdemo\controller\AuthController.class
+com\authdemo\dto\LoginRequest.class
+com\authdemo\dto\RegisterRequest.class
+com\authdemo\AuthDemoApplication.class
+com\authdemo\security\WebSecurityConfig.class
